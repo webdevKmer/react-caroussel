@@ -6,6 +6,7 @@ function App() {
       <button className="bg-black text-white font-bold px-4 py-2 rounded-lg absolute left-0 top-1/2 w-32">Previous</button>
       <button className="bg-black text-white font-bold px-4 py-2 rounded-lg absolute right-0 top-1/2 w-32">Next</button>
       <div className="bg-yellow-100 w-8/12 h-4/6 mt-10">
+        <img src="https://placehold.co/600x400" alt="random photo" />
         </div>  
     </div>
     </>
